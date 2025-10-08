@@ -55,8 +55,7 @@ Always curious and eager to grow, I’m excited to contribute to impactful proje
 
 ### 📊 GitHub Stats
 
-![Keval's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevalnagariya&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevalnagariya&layout=compact&theme=radical&langs_count=8&hide=php,css)
+![Keval's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevalnagariya&show_icons=true&theme=radical) 
 
 ---
 
