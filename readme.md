@@ -1,38 +1,62 @@
 # 👋 Hi, I'm Keval Nagariya
 
-💻 **MERN Stack Developer | WordPress Developer | Associate Software Engineer | Software Engineer | Gamer**
-
-Welcome to my GitHub profile! I’m a passionate developer who loves building dynamic, user-friendly web applications and exploring innovative technologies to deliver scalable digital solutions.
+💻 **WordPress & Front-End Developer | MERN Stack Enthusiast | Associate Software Engineer | Part time gamer 😎**
 
 ---
 
 ### 🧠 About Me
-- 🚀 Currently working as an **Associate Software Engineer**, focusing on full-stack development  
-- 💡 Skilled in both **MERN stack** and **WordPress solutions** applications  
-- 🌱 Always learning — currently exploring **React.js**, **Node.js**  
-- 💬 Ask me about **React, Node.js, MongoDB, WordPress, or REST APIs**  
-- 🎯 Goal: To build impactful digital experiences and contribute to open-source communities  
-- ⚡ Fun fact: I enjoy turning creative UI ideas into functional products
+Hi, I’m a passionate **WordPress & Front-End Developer** with a knack for creating clean, responsive, and user-friendly web experiences.  
+I enjoy solving problems, learning new tools, and making projects both functional and visually engaging.
+
+Outside of coding, you’ll often find me **gaming 🎮**, **exploring good food 🍕🍣**, or **collaborating with friends and teammates 🤝**.  
+I believe in keeping things **simple, effective, and fun** along the way.
+
+Always curious and eager to grow, I’m excited to contribute to impactful projects, learn new technologies, and keep improving my craft 🚀.
+
+---
+
+### 💼 Professional Experience
+
+#### 🏢 **Vistaar Digital**
+**Associate Software Engineer** | _January 2024 – September 2025_  
+**Associate Software Engineer Intern** | _April 2023 – December 2023_
+
+- 🧩 Developed **20+ interactive e-detailing presentations** in *Vistaar Enablr* using **HTML, CSS, JavaScript, jQuery**, and **Swiper.js**, improving client engagement and usability.  
+- 🤝 Collaborated with cross-functional teams to gather requirements, create prototypes, test, and deploy solutions efficiently.  
+- 🎓 Mentored interns in **HTML, CSS, JavaScript, jQuery**, boosting project delivery speed by 20%.  
+- 🔄 Converted the **Enablr website** to WordPress — [https://enablrsales.com/](https://enablrsales.com/) — improving content layout, user experience, and reducing content update time by 30%.  
+- 🌐 Developed and maintained additional company websites using **WordPress**, **HTML**, and **Bootstrap**, enhancing UI/UX and adding new pages for better usability.  
+- ✉️ Created **20+ email, SMS, and cloud page campaigns** in **Salesforce Marketing Cloud (SFMC)**, ensuring campaign quality and performance alignment.
+
+---
+
+### 🧩 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| [🧠 Quiz Web App](https://github.com/kevalnagariya/Quiz-Web-App) | Interactive quiz app with score tracking and smooth UI | HTML, CSS, JavaScript |
+| [📝 To-Do List](https://github.com/kevalnagariya/To-Do-List) | Task management web app with CRUD operations | JavaScript, Local Storage |
+| [🌤️ City Weather Checker](https://github.com/kevalnagariya/City-weather-checker) | Weather app fetching live API data with clean UI | HTML, CSS, JavaScript, API |
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### ⚙️ Core Skills
-`HTML` `CSS` `JavaScript` `React.js` `Node.js` `Express.js` `MongoDB` `WordPress` `PHP` `MySQL`
+#### 💻 Front-End
+`HTML5` `CSS3` `JavaScript` `React.js` `jQuery` `Bootstrap` `Swiper.js`
 
-#### 🧰 Tools & Platforms
-`Git` `GitHub` `VS Code` `Netlify` `Postman` `Figma` 
+#### 🧩 CMS & Backend
+`WordPress` `PHP (Basics)` `MySQL` `Node.js` `Express.js`
 
-#### ☁️ Deployment & Hosting
-`Netlify` `Vercel` `Render` `Hostinger` `AWS (Basics)`
+#### ⚙️ Tools & Platforms
+`Git` `GitHub` `VS Code` `Netlify` `Figma` `Salesforce Marketing Cloud` `Photopea` `Adobe Illustrator`
 
 ---
 
 ### 📊 GitHub Stats
 
-![Keval's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevalnagariya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevalnagariya&layout=compact&theme=radical)
+![Keval's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevalnagariya&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevalnagariya&layout=compact&theme=radical&langs_count=8&hide=php,css)
 
 ---
 
@@ -47,7 +71,7 @@ Welcome to my GitHub profile! I’m a passionate developer who loves building dy
 ### 🧭 Motto
 > “Code is not just about solving problems — it’s about crafting meaningful experiences.”
 
-⭐ If you like my work, consider **starring** my repositories to support and stay connected!
+⭐ If you like my work, consider **starring** my repositories to show support!
 
 ---
 
