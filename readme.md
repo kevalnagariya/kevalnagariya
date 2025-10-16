@@ -15,28 +15,14 @@ Always curious and eager to grow, I’m excited to contribute to impactful proje
 
 ---
 
-### 💼 Professional Experience
-
-#### 🏢 **Vistaar Digital**
-**Associate Software Engineer** | _January 2024 – September 2025_  
-**Associate Software Engineer Intern** | _April 2023 – December 2023_
-
-- 🧩 Developed **20+ interactive e-detailing presentations** in *Vistaar Enablr* using **HTML, CSS, JavaScript, jQuery**, and **Swiper.js**, improving client engagement and usability.  
-- 🤝 Collaborated with cross-functional teams to gather requirements, create prototypes, test, and deploy solutions efficiently.  
-- 🎓 Mentored interns in **HTML, CSS, JavaScript, jQuery**, boosting project delivery speed by 20%.  
-- 🔄 Converted the **Enablr website** to WordPress — [https://enablrsales.com/](https://enablrsales.com/) — improving content layout, user experience, and reducing content update time by 30%.  
-- 🌐 Developed and maintained additional company websites using **WordPress**, **HTML**, and **Bootstrap**, enhancing UI/UX and adding new pages for better usability.  
-- ✉️ Created **20+ email, SMS, and cloud page campaigns** in **Salesforce Marketing Cloud (SFMC)**, ensuring campaign quality and performance alignment.
-
----
-
 ### 🧩 Featured Projects
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| [🧠 Quiz Web App](https://github.com/kevalnagariya/Quiz-Web-App) | Interactive quiz app with score tracking and smooth UI | HTML, CSS, JavaScript |
-| [📝 To-Do List](https://github.com/kevalnagariya/To-Do-List) | Task management web app with CRUD operations | JavaScript, Local Storage |
-| [🌤️ City Weather Checker](https://github.com/kevalnagariya/City-weather-checker) | Weather app fetching live API data with clean UI | HTML, CSS, JavaScript, API |
+| [👩‍💻 DevConnect](https://github.com/kevalnagariya/devConnect) | Full-stack MERN app that helps developers connect, collaborate, and expand their network. Features secure authentication, real-time connections, and profile management. | MongoDB, Express.js, React.js, Node.js, Redux Toolkit, Tailwind CSS |
+| [🧠 Quiz Web App](https://github.com/kevalnagariya/Quiz-Web-App) | Interactive quiz app with score tracking, dynamic questions, and smooth UI. | HTML, CSS, JavaScript |
+| [📝 To-Do List](https://github.com/kevalnagariya/To-Do-List) | Task management web app supporting add/edit/delete with persistence via LocalStorage. | JavaScript, LocalStorage |
+| [🌤️ City Weather Checker](https://github.com/kevalnagariya/City-weather-checker) | Weather app fetching real-time API data with a clean, responsive interface. | HTML, CSS, JavaScript, OpenWeather API |
 
 ---
 
