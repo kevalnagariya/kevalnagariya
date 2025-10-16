@@ -29,10 +29,10 @@ Always curious and eager to grow, I’m excited to contribute to impactful proje
 ### 🛠️ Tech Stack
 
 #### 💻 Front-End
-`HTML5` `CSS3` `JavaScript` `React.js` `jQuery` `Bootstrap` `Swiper.js`
+`HTML5` `CSS3` `JavaScript (ES6+)` `React.js` `Redux Toolkit` `jQuery` `Bootstrap` `Tailwind CSS` `Swiper.js`
 
-#### 🧩 CMS & Backend
-`WordPress` `PHP (Basics)` `MySQL` `Node.js` `Express.js`
+#### 🧩 Backend & Database
+`Node.js` `Express.js` `MongoDB` `Mongoose` `APIs` `MySQL` `WordPress` `PHP (Basics)`
 
 #### ⚙️ Tools & Platforms
 `Git` `GitHub` `VS Code` `Netlify` `Figma` `Salesforce Marketing Cloud` `Photopea` `Adobe Illustrator`
