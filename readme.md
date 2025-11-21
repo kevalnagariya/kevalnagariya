@@ -46,9 +46,8 @@ Always curious and eager to grow, I’m excited to contribute to impactful proje
 
 ---
 
-
 ### 🌐 Day 1 of my 7-day SFMC series is live!
-(https://www.linkedin.com/posts/keval-nagariya_salesforcemarketingcloud-sfmc-emailmarketing-activity-7395120844655632384-_iIp?utm_source=share&utm_medium=member_desktop&rcm=ACoAADYvLW4BM1TLxDoULnW34sBvmpLLWEevemg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Post-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/keval-nagariya_salesforcemarketingcloud-sfmc-emailmarketing-activity-7395120844655632384-_iIp?utm_source=share&utm_medium=member_desktop&rcm=ACoAADYvLW4BM1TLxDoULnW34sBvmpLLWEevemg)
 
 ---
 
