@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Keval Nagariya
 
-💻 **SFMC Email Specialist (in progress) | Associate Software Engineer | Part-time Gamer 😎**
+💻 **Salesforce Certified Marketing Cloud Email Specialist | Associate Software Engineer | Part-time Gamer 😎**
 
 ---
 
